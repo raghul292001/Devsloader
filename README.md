@@ -14,4 +14,4 @@ Devsloader is a simple Chrome extension that automatically reloads the currently
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone 
+   git clone https://github.com/raghul292001/Devsloader.git
